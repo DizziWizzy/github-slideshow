@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+"Whatever you say bot" - DizziWizzy
 Use the left arrow to go back!
